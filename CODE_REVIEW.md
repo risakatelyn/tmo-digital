@@ -1,0 +1,4 @@
+1. When we enter a value, for example "javascript" and click enter or on search icon, the data related to "javascript" will be displayed. But when we delete the entered text and enter another keyword or letter in the input without clicking enter button or search icon, it is still showing previous data. It should not display previous data as we are entering new values.
+2. Similarly when we delete the text and enter another keyword and click on enter button or search icon, it is showing previous data first and then displaying new data as per the entered text. - Fixed this issue.
+3. A clear icon along with search icon would be nice as we can delete the entire text at once using clear icon. - I have added this.
+4. A spinner would be nice as the data is taking time to load. - I have added this.
